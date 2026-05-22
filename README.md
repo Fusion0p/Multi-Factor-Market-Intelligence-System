@@ -4,6 +4,11 @@ A **decision-support system** for financial markets combining price data, techni
 
 ---
 
+<img width="1240" height="647" alt="image" src="https://github.com/user-attachments/assets/3d196a2e-07d7-43d8-8b31-37750a5f6e51" />
+
+<img width="824" height="530" alt="image" src="https://github.com/user-attachments/assets/c28d6481-290c-4a2a-823c-f1d31977778c" />
+
+
 ## 🚀 Quick Start
 
 ### 1. Install dependencies
